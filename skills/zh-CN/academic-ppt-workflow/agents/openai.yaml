@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术 PPT 制作工作流"
+  short_description: "从材料调研与大纲、图像设计，到可编辑重建和逐页精查的完整九步流程"
+  default_prompt: "请使用 $academic-ppt-workflow，基于我提供的材料与要求制作 PPT，并交付图片版、可编辑版及过程文件。"

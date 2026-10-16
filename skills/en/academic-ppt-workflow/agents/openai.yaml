@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic PPT Workflow"
+  short_description: "Research, image design, editable slides, and detailed review"
+  default_prompt: "Use $academic-ppt-workflow to create a presentation from my materials and requirements, delivering image-based and editable versions plus process files."
