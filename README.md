@@ -104,8 +104,8 @@ academic-ppt-workflow/
 ├── skills/
 │   ├── zh-CN/academic-ppt-workflow/  # 独立中文版技能
 │   └── en/academic-ppt-workflow/     # 独立英文版技能
-├── examples/                     # 五组案例PDF、提示词、两张封面
-└── style-references/             # S0–S16参考风格原图
+├── examples/                         # 五组案例PDF、提示词、两张封面
+└── style-references/                 # S0–S16参考风格原图
 ```
 
 参考图统一放在图库中，各案例通过链接对应。技能与案例分开，安装时只需复制所选语言下的 `academic-ppt-workflow/` 目录。
